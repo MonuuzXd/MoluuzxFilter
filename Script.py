@@ -12,7 +12,7 @@ class script(object):
 
     ABOUT_TXT = """
 
-𝗧𝗛𝗜𝗦 VIJAY ANNAN 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
+𝗧𝗛𝗜𝗦 𝙈𝙊𝙇𝙐𝙐𝙕𝙓𝙁𝙄𝙇𝙏𝙀𝙍 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 
@@ -20,7 +20,7 @@ class script(object):
 
 ║╭━━━━━━━━━━━━━━━➣ 
 
-║┣💞 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/profilterautomabot"> MOLUUZX </a>
+║┣💞 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Moluuzx_Filter_bot"> MOLUUZX </a>
 
 ║┣💞 Ⓓ︎Ⓔ︎ 😌V- <a href="https://t.me/itz_me_monuuz "> MonuuzXd </a>
 
