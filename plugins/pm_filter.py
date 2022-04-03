@@ -415,32 +415,32 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('😎 𝐚𝐝𝐦𝐢𝐧 ', callback_data='admin')
+            InlineKeyboardButton('👰‍♀ ąɖɱıŋ ', callback_data='admin')
             ],[
-            InlineKeyboardButton('🗳️ 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 ', callback_data='coct'),
-            InlineKeyboardButton('👻 𝐟𝐢𝐥𝐭𝐞𝐫𝐬 ', callback_data='auto_manual'),
-            InlineKeyboardButton('📖 𝐠𝐭𝐫𝐚𝐧𝐬 ', callback_data='gtrans')
+            InlineKeyboardButton('💞 ƈơŋŋɛƈɬ', callback_data='coct'),
+            InlineKeyboardButton('👩‍🎤 ʄıƖɬɛཞʂ', callback_data='auto_manual'),
+            InlineKeyboardButton('🙈 ɠɬཞąŋʂ ', callback_data='gtrans')
             ],[
-            InlineKeyboardButton('📄 𝐢𝐧𝐟𝐨 ', callback_data='info'),
-            InlineKeyboardButton('🖥️ 𝐩𝐚𝐬𝐭𝐞 ', callback_data='paste')
+            InlineKeyboardButton('🧚‍♀️ ıŋʄơ ', callback_data='info'),
+            InlineKeyboardButton('🔮 ℘ąʂɬɛ ', callback_data='paste')
             ],[
-            InlineKeyboardButton('💣 𝐩𝐮𝐫𝐠𝐞 ', callback_data='purge')
+            InlineKeyboardButton('🧘‍♀️ ℘ųཞɠɛ ', callback_data='purge')
             ],[
-            InlineKeyboardButton('🔇 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐭 ', callback_data='restric'),
-            InlineKeyboardButton('🔍 𝐬𝐞𝐚𝐫𝐜𝐡 ', callback_data='search'),
-            InlineKeyboardButton('📸 𝐭𝐠𝐫𝐚𝐩𝐡 ', callback_data='tgraph')
+            InlineKeyboardButton('🏃‍♀ ཞɛʂɬཞıƈɬ ', callback_data='restric'),
+            InlineKeyboardButton('🕵️ ʂɛąཞƈɧ ', callback_data='search'),
+            InlineKeyboardButton('♨️ ɬɠཞą℘ɧ ', callback_data='tgraph')
             ],[
-            InlineKeyboardButton('🤔 𝐰𝐡𝐨𝐢𝐬 ', callback_data='whois'),
-            InlineKeyboardButton('🤡 𝐟𝐮𝐧 ', callback_data='fun')
+            InlineKeyboardButton('💁‍♀️ ῳɧơıʂ ', callback_data='whois'),
+            InlineKeyboardButton('😂 ʄųŋ ', callback_data='fun')
             ],[
-            InlineKeyboardButton('🥱 𝐚𝐥𝐢𝐯𝐞 ', callback_data='alive')
+            InlineKeyboardButton('🧜‍♀️ ąƖı۷ɛ ', callback_data='alive')
             ],[
-            InlineKeyboardButton('🎶 𝐬𝐨𝐧𝐠 ', callback_data='song'),
-            InlineKeyboardButton('🖨️ 𝐣𝐬𝐨𝐧 ', callback_data='json'),
-            InlineKeyboardButton('📎 𝐩𝐢𝐧 ', callback_data='pin')
+            InlineKeyboardButton('💃 ʂơŋɠ ', callback_data='song'),
+            InlineKeyboardButton('👩‍🔧 ʝʂơŋ ', callback_data='json'),
+            InlineKeyboardButton('📌 ℘ıŋ ', callback_data='pin')
             ],[
-            InlineKeyboardButton('🦠 𝐜𝐨𝐫𝐨𝐧𝐚 ', callback_data='corona'),
-            InlineKeyboardButton('🖨️ 𝐬𝐭𝐢𝐜𝐤𝐞𝐫𝐢𝐝 ', callback_data='stickerid')
+            InlineKeyboardButton('🦠 ƈơཞơŋą ', callback_data='corona'),
+            InlineKeyboardButton('🏋‍♀️ ʂɬıƈƙɛཞıɖ ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('« Back', callback_data='start')
         ]]
