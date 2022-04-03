@@ -5,32 +5,62 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
-𝗧𝗛𝗜𝗦 VIJAY ANNAN 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
-║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/profilterautomabot"> VIJAY ANNAN </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/devourdevils"> devourdevils </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/devourdevils"> kamarjahan </a>
-║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  𝙷𝙴𝚁𝙾𝙺𝚄
-║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
+𝗧𝗛𝗜𝗦 MONUUZ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
+💞☛𝙏𝙀𝙇𝘼𝙂𝙍𝘼𝙈 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊☚💞
+
+┏💞TELAGRAM NAME : ࿇༲💕🦄∭ར₮ʑ,..M⃟E,,,M⃟ON⃟UU⃟Z💕᭄💖༆★᭄🦋࿂🕺༗࿐ 
+
+┠💞NORMAL NAME : ༄🦄ᶦᶰᵈ᭄༂❦‌𝑨𝑺𝑯𝑹𝑨𝑭⋆‌ᶜ‌ᴿ‌ᴬ‌ᶻ‌ᴵ‌ᴱ‌ᚸ⃝⃘⃟⃠‌ᴷ‌ᵞ‌ᴬ‌ᵀ‌༄༂✰ 💞▓࿐
+
+┠💞༄🦄ᶦᶰᵈ᭄😌
+
+┠💞FROM: KL10 [MALAPPURAM ]
+
+┠💞AGE: 24
+
+┠💞WORK: ACCOUNTANT🙈
+
+┠💞HOBBY:FOOTBALL AND MUSIC 🥳
+
+┠💞🎂🎉 AGUST 28 WISH 😢
+
+┠💞INSTAGRAM : AVAILABLE 🙂
+
+┠💞 LOVER : NOT SINGLE BETTER 🌝
+
+┠💞ADDICTION APP:TELAGRAM ❤️
+
+┠💞INDIA > KERALA > MALPPURAM 👀😌
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/kamarjahan/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/cinema_street_group"> 𝗖𝗟𝗜𝗖𝗞 😒 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/septemberfilms"> devourdevils </a>"""
+<a href="https://t.me/itz_me_monuuz"> devourdevils </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
 •/whois :-give a user full details"""
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
 • /alive - check me alive or dead🤧
-Just for a rasam😂"""
+Just for a rasalle ആഷേ😒"""
     CORONA_TXT ="""<b>Here is the help for the coron information module</b>
 ➡️ /covid <code>(countryname)</code> <b>you can find a corona information of every country</b>
 
